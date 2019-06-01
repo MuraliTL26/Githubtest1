@@ -7,5 +7,7 @@ public class Sample{
     System.out.prinltn("wrong meth");
     System.out.println("Maion method end<<<<<<<<------------");
    */ System.out.println("pushing code into github");
+      System.out.println("added code from github");
+     
     }
   }
